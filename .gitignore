@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+
+tdnet.zip
+*.zip
+
+newshare_table_utf8.csv
+newshare_table_pred.csv
+
+tdnet/
+__pycache__/
+.ipynb_checkpoints/
